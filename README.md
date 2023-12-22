@@ -2,7 +2,7 @@ Clone
 
 Clone or fork this repository to your local machine:
 
-https://github.com/Soorajhari/image-Slider-react.git
+https://github.com/Soorajhari/clone.git
 
 Prerequisites The service must be installed
 
